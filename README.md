@@ -72,3 +72,31 @@ git clone https://github.com/ggritvik/AngryNerds.git
 cd AngryNerds/myapp
 flutter pub get
 flutter run
+
+> ✅ Requires Flutter SDK. Visit [flutter.dev](https://flutter.dev/docs/get-started/install) for setup instructions.
+
+
+## 🌟 Future Scope
+
+* Blockchain integration for crop traceability.
+* GPS-based delivery route optimization.
+* Voice commands & AI chat for accessibility.
+* Smart farmer cooperative tools and resource sharing.
+
+---
+
+## 🤝 Contributing
+
+We welcome community contributions!
+Feel free to fork, open issues, and raise pull requests.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+> Built by Team AngryNerds — Empowering Farmers, Enabling Fairness.
+---
