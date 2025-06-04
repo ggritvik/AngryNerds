@@ -73,6 +73,8 @@ cd AngryNerds/myapp
 flutter pub get
 flutter run
 
+```
+
 > ✅ Requires Flutter SDK. Visit [flutter.dev](https://flutter.dev/docs/get-started/install) for setup instructions.
 
 
