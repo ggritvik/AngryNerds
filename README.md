@@ -94,11 +94,5 @@ Feel free to fork, open issues, and raise pull requests.
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 > Built by Team AngryNerds — Empowering Farmers, Enabling Fairness.
 ---
